@@ -1,0 +1,16 @@
+{
+  "antiFeatures": {},
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--pretty",
+    "--rename-apks"
+  ],
+  "disabled": [],
+  "endTimestamp": 1618733399222,
+  "failedBuilds": {},
+  "noPackages": [
+    "ikas.android.projectx.hook.prevent"
+  ],
+  "startTimestamp": 1618704596000,
+  "subcommand": "update"
+}
