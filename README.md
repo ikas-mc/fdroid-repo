@@ -16,6 +16,7 @@ https://ikas-mc.github.io/fdroid-repo/fdroid/repo?fingerprint=A4F1C60EB4D3A8FDE4
 https://ikas-mc.github.io/fdroid-repo
 
 * Scan  QR
+
 ![qr](https://ikas-mc.github.io/fdroid-repo/repo-qr.svg)
 
 
