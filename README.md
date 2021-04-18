@@ -2,18 +2,20 @@
 
 This is a repository of my apps to be used with F-Droid
 
-## Repo 
-
 https://ikas-mc.github.io/fdroid-repo
 
-fingerprint:
+## Add Repo 
 
-A4F1C60EB4D3A8FDE4644DBAC9F9834E3C06B69E4EACF8A7FF5423339523071B
+* Copy Link , Open F-Droid , Settings >Repositories > + 
 
-https://ikas-mc.github.io/fdroid-repo/?fingerprint=A4F1C60EB4D3A8FDE4644DBAC9F9834E3C06B69E4EACF8A7FF5423339523071B
+https://ikas-mc.github.io/fdroid-repo/fdroid/repo?fingerprint=A4F1C60EB4D3A8FDE4644DBAC9F9834E3C06B69E4EACF8A7FF5423339523071B
 
 
+* Open This Page In Mobile Web Browser
 
+[click here](fdroidrepos://ikas-mc.github.io/fdroid-repo/fdroid/repo?fingerprint=A4F1C60EB4D3A8FDE4644DBAC9F9834E3C06B69E4EACF8A7FF5423339523071B)
+
+* Scan  QR
 ![qr](https://ikas-mc.github.io/fdroid-repo/repo-qr.svg)
 
 
