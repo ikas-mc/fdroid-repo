@@ -14,6 +14,9 @@ https://ikas-mc.github.io/fdroid-repo/?fingerprint=A4F1C60EB4D3A8FDE4644DBAC9F98
 
 
 
+![qr](https://ikas-mc.github.io/fdroid-repo/repo-qr.svg)
+
+
 ## For dev
 Setup an F-Droid App Repo
 
