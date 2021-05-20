@@ -1,8 +1,10 @@
 {
   "commandLine": [
     "/usr/bin/fdroid update",
+    "-c",
+    "--pretty",
     "--rename-apks"
   ],
-  "startTimestamp": 1618846126000,
+  "startTimestamp": 1621451919000,
   "subcommand": "update"
 }

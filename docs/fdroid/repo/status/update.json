@@ -1,1 +1,19 @@
-{"antiFeatures":{},"commandLine":["/usr/bin/fdroid update","--rename-apks"],"disabled":[],"endTimestamp":1618874932655,"failedBuilds":{},"noPackages":["ikas.android.project.nearby","ikas.android.projectx.application","ikas.android.projectx.hook.prevent"],"startTimestamp":1618846126000,"subcommand":"update"}
+{
+  "antiFeatures": {},
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "-c",
+    "--pretty",
+    "--rename-apks"
+  ],
+  "disabled": [],
+  "endTimestamp": 1621480726818,
+  "failedBuilds": {},
+  "noPackages": [
+    "ikas.android.project.nearby",
+    "ikas.android.projectx.application",
+    "ikas.android.projectx.hook.prevent"
+  ],
+  "startTimestamp": 1621451919000,
+  "subcommand": "update"
+}
