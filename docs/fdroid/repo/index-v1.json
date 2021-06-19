@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1623385926000,
+    "timestamp": 1624078262000,
     "version": 20000,
     "name": "Ikas F-Droid Repository",
     "icon": "icon.png",
@@ -23,10 +23,10 @@
       "name": "AppOps Module For Invalid App",
       "summary": "AppOps Module(Xposed Module) For Invalid App",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1623385925000,
+      "added": 1624078261000,
       "icon": "ikas.android.projectx.hook.prevent.20210520.png",
       "packageName": "ikas.android.projectx.hook.prevent",
-      "lastUpdated": 1623385926000
+      "lastUpdated": 1624078261000
     },
     {
       "authorName": "ikas",
@@ -39,9 +39,9 @@
       "name": "Invalid App",
       "summary": "\u5b89\u535310\u4ee5\u4e0a,\u5b9e\u73b0op/app/\u7ec4\u4ef6\u7ba1\u7406",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1623385922000,
+      "added": 1624078250000,
       "packageName": "ikas.android.projectx.application",
-      "lastUpdated": 1623385925000
+      "lastUpdated": 1624078260000
     },
     {
       "authorName": "ikas",
@@ -54,9 +54,9 @@
       "name": "Share To Win10",
       "summary": "send or receive files via windows 10  nearby sharing",
       "webSite": "https://github.com/ikas-mc",
-      "added": 1623385918000,
+      "added": 1624078252000,
       "packageName": "ikas.android.project.nearby",
-      "lastUpdated": 1623385921000
+      "lastUpdated": 1624078256000
     },
     {
       "authorName": "ikas",
@@ -69,15 +69,15 @@
       "name": "Task Module For Invalid App",
       "summary": "Force stop the app removed from recent task",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1623385926000,
+      "added": 1624078262000,
       "packageName": "ikas.android.projectx.hook.task",
-      "lastUpdated": 1623385926000
+      "lastUpdated": 1624078262000
     }
   ],
   "packages": {
     "ikas.android.project.nearby": [
       {
-        "added": 1623385921000,
+        "added": 1624078256000,
         "apkName": "ikas.android.project.nearby_20210609.apk",
         "hash": "e628bdfab45cef770d07e421bab5cf9178999284a27b1d5bf02833f56c6a0f4b",
         "hashType": "sha256",
@@ -102,7 +102,7 @@
         "versionName": "2021.6.9"
       },
       {
-        "added": 1623385920000,
+        "added": 1624078254000,
         "apkName": "ikas.android.project.nearby_20210523.apk",
         "hash": "0433e62a37701f67311485585d739e7ac29ec0f27e578e1549f1981e518156e5",
         "hashType": "sha256",
@@ -127,7 +127,7 @@
         "versionName": "2021.5.23"
       },
       {
-        "added": 1623385918000,
+        "added": 1624078252000,
         "apkName": "ikas.android.project.nearby_20210123.apk",
         "hash": "9e24d16a9679e986a15eab05fb03050bb2aab1c73a70e05b30265c877fc0c5a8",
         "hashType": "sha256",
@@ -154,7 +154,55 @@
     ],
     "ikas.android.projectx.application": [
       {
-        "added": 1623385925000,
+        "added": 1624078250000,
+        "apkName": "ikas.android.projectx.application_20210619.apk",
+        "hash": "dffba08d241f13c231476142c91bb6608da54cfd5c1d962bfa0baa696675e454",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "packageName": "ikas.android.projectx.application",
+        "sig": "39d65f1e0266c8965b9ce2256e153da5",
+        "signer": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9",
+        "size": 14912919,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "ikas.android.projectx.permission.SYSTEM",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 20210619,
+        "versionName": "2021.6.19"
+      },
+      {
+        "added": 1624078260000,
         "apkName": "ikas.android.projectx.application_20210610.apk",
         "hash": "09a407d4275b1428aac22d8250d82b9adebb2c8649c6a4bcfadefa29e5adfdb1",
         "hashType": "sha256",
@@ -202,7 +250,7 @@
         "versionName": "2021.6.10"
       },
       {
-        "added": 1623385924000,
+        "added": 1624078259000,
         "apkName": "ikas.android.projectx.application_20210520.apk",
         "hash": "2e4db830ebd1e16b77cddfd8da19bfa0a211fbee0fb4ebd98d703d76c73071e5",
         "hashType": "sha256",
@@ -246,7 +294,7 @@
         "versionName": "2021.5.20"
       },
       {
-        "added": 1623385922000,
+        "added": 1624078257000,
         "apkName": "ikas.android.projectx.application_20210407.apk",
         "hash": "d36c21378490fcd85f8c57090997baae9c7310e777da78118487135ddefa4881",
         "hashType": "sha256",
@@ -296,7 +344,7 @@
     ],
     "ikas.android.projectx.hook.prevent": [
       {
-        "added": 1623385926000,
+        "added": 1624078261000,
         "apkName": "ikas.android.projectx.hook.prevent_20210520.apk",
         "hash": "4efaf9e3f2c039142831954d88c2caa531997653077e72f0c040e96ed0bc8f38",
         "hashType": "sha256",
@@ -310,7 +358,7 @@
         "versionName": "2021.5.20"
       },
       {
-        "added": 1623385925000,
+        "added": 1624078261000,
         "apkName": "ikas.android.projectx.hook.prevent_20210408.apk",
         "hash": "b75bf4ccc3b19682c4d257f1c7d54892b314d0014c98b41020359daa011c0f3a",
         "hashType": "sha256",
@@ -326,7 +374,7 @@
     ],
     "ikas.android.projectx.hook.task": [
       {
-        "added": 1623385926000,
+        "added": 1624078262000,
         "apkName": "ikas.android.projectx.hook.task_20210530.apk",
         "hash": "2e175de62c3370de0f318cd2e22de0e9b88a7cae9c1718cc8ef873cbae0f48d5",
         "hashType": "sha256",
