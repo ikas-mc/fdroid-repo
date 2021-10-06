@@ -7,7 +7,7 @@
     "--rename-apks"
   ],
   "disabled": [],
-  "endTimestamp": 1632320631619,
+  "endTimestamp": 1633500426438,
   "failedBuilds": {},
   "noPackages": [
     "ikas.android.project.nearby",
@@ -15,6 +15,6 @@
     "ikas.android.projectx.hook.prevent",
     "ikas.android.projectx.hook.task"
   ],
-  "startTimestamp": 1632291813000,
+  "startTimestamp": 1633471606000,
   "subcommand": "update"
 }
