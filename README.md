@@ -1,10 +1,10 @@
-# F-Droid Repo
+# Apps Repo
 
-This is a repository of my apps to be used with F-Droid
+This is a repository of my apps 
 
 https://ikas-mc.github.io/fdroid-repo
 
-## Add Repo 
+## Add Repo To Fdroid(not all apps)
 
 * Copy Link , Open F-Droid , Settings >Repositories > + 
 
