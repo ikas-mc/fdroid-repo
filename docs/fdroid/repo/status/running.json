@@ -5,6 +5,6 @@
     "--pretty",
     "--rename-apks"
   ],
-  "startTimestamp": 1635111440000,
+  "startTimestamp": 1640048933000,
   "subcommand": "update"
 }
