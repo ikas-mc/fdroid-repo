@@ -1,10 +1,11 @@
 {
+  "/etc/issue.net": "Ubuntu 22.04 LTS",
   "commandLine": [
     "/usr/bin/fdroid update",
     "-c",
     "--pretty",
     "--rename-apks"
   ],
-  "startTimestamp": 1649011864000,
+  "startTimestamp": 1664708581000,
   "subcommand": "update"
 }
