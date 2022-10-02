@@ -10,7 +10,7 @@
     "--rename-apks"
   ],
   "disabled": [],
-  "endTimestamp": 1664737395330,
+  "endTimestamp": 1664738983370,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
   "keytool": "/usr/lib/jvm/default-java/bin/keytool",
@@ -35,6 +35,6 @@
     "ikas.android.projectx.hook.prevent",
     "ikas.android.projectx.hook.task"
   ],
-  "startTimestamp": 1664708581000,
+  "startTimestamp": 1664710168000,
   "subcommand": "update"
 }

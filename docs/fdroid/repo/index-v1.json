@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1664737391000,
+    "timestamp": 1664738980000,
     "version": 20001,
     "name": "Ikas F-Droid Repository",
     "icon": "icon.png",
@@ -23,9 +23,9 @@
       "name": "Android Start",
       "summary": "A simple launcher for Windows Subsystem for Android",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1664737385000,
+      "added": 1664738970000,
       "packageName": "ikas.android.project.launcher",
-      "lastUpdated": 1664737385000
+      "lastUpdated": 1664738970000
     },
     {
       "authorName": "ikas",
@@ -38,10 +38,10 @@
       "name": "AppOps Module For Invalid App",
       "summary": "AppOps module(xposed) for Invalid App , Disalbe appops reset",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1664737391000,
+      "added": 1664738977000,
       "icon": "ikas.android.projectx.hook.prevent.20210520.png",
       "packageName": "ikas.android.projectx.hook.prevent",
-      "lastUpdated": 1664737391000
+      "lastUpdated": 1664738977000
     },
     {
       "authorName": "ikas",
@@ -54,24 +54,24 @@
       "name": "Invalid App",
       "summary": "For Android 10+, Manage App/App Component(IFW)/Permission/AppOps",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1664737383000,
+      "added": 1664738974000,
       "packageName": "ikas.android.projectx.application",
-      "lastUpdated": 1664737390000
+      "lastUpdated": 1664738976000
     },
     {
       "authorName": "ikas",
       "categories": [
         "tools"
       ],
-      "suggestedVersionCode": "20210609",
+      "suggestedVersionCode": "20221003",
       "issueTracker": "https://github.com/ikas-mc/px-repo",
       "license": "Unknown",
       "name": "Share To Win10",
       "summary": "Send or receive files via windows nearby sharing",
       "webSite": "https://github.com/ikas-mc/px-repo",
-      "added": 1664737388000,
+      "added": 1664738972000,
       "packageName": "ikas.android.project.nearby",
-      "lastUpdated": 1664737388000
+      "lastUpdated": 1664738980000
     },
     {
       "authorName": "ikas",
@@ -84,15 +84,15 @@
       "name": "Task Module For Invalid App",
       "summary": "Force stop the app when removed from recent task",
       "webSite": "https://github.com/ikas-mc/px-app",
-      "added": 1664737391000,
+      "added": 1664738977000,
       "packageName": "ikas.android.projectx.hook.task",
-      "lastUpdated": 1664737391000
+      "lastUpdated": 1664738977000
     }
   ],
   "packages": {
     "ikas.android.project.launcher": [
       {
-        "added": 1664737385000,
+        "added": 1664738970000,
         "apkName": "ikas.android.project.launcher_20211026.apk",
         "hash": "4f59fa43012b8abcf6604bc9067e39fcaaec0a3051886d2b472764f62034f0b1",
         "hashType": "sha256",
@@ -126,7 +126,36 @@
     ],
     "ikas.android.project.nearby": [
       {
-        "added": 1664737388000,
+        "added": 1664738980000,
+        "apkName": "ikas.android.project.nearby_20221003.apk",
+        "hash": "8b31bebf28086d94d7fdfbc3f34ee6b3af7798b5d8aa3ee28e749d13b7f44968",
+        "hashType": "sha256",
+        "minSdkVersion": 29,
+        "nativecode": [
+          "arm64-v8a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "ikas.android.project.nearby",
+        "sig": "39d65f1e0266c8965b9ce2256e153da5",
+        "signer": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9",
+        "size": 39030392,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 20221003,
+        "versionName": "2021.10.3"
+      },
+      {
+        "added": 1664738972000,
         "apkName": "ikas.android.project.nearby_20210609.apk",
         "hash": "e628bdfab45cef770d07e421bab5cf9178999284a27b1d5bf02833f56c6a0f4b",
         "hashType": "sha256",
@@ -153,7 +182,7 @@
     ],
     "ikas.android.projectx.application": [
       {
-        "added": 1664737383000,
+        "added": 1664738976000,
         "apkName": "ikas.android.projectx.application_20221003.apk",
         "hash": "fb1141cf51fc3e9edfb107e9e309195192b69db89fc6a5cf6dffc6b7554b08dd",
         "hashType": "sha256",
@@ -201,7 +230,7 @@
         "versionName": "2022.10.3"
       },
       {
-        "added": 1664737390000,
+        "added": 1664738974000,
         "apkName": "ikas.android.projectx.application_20220404.apk",
         "hash": "8b4740b093a007dfc69b5b35600557e806a9869038772e4917feac800724b40f",
         "hashType": "sha256",
@@ -251,7 +280,7 @@
     ],
     "ikas.android.projectx.hook.prevent": [
       {
-        "added": 1664737391000,
+        "added": 1664738977000,
         "apkName": "ikas.android.projectx.hook.prevent_20210520.apk",
         "hash": "4efaf9e3f2c039142831954d88c2caa531997653077e72f0c040e96ed0bc8f38",
         "hashType": "sha256",
@@ -267,7 +296,7 @@
     ],
     "ikas.android.projectx.hook.task": [
       {
-        "added": 1664737391000,
+        "added": 1664738977000,
         "apkName": "ikas.android.projectx.hook.task_20210530.apk",
         "hash": "2e175de62c3370de0f318cd2e22de0e9b88a7cae9c1718cc8ef873cbae0f48d5",
         "hashType": "sha256",
