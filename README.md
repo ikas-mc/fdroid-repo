@@ -4,7 +4,7 @@ This is a repository of my apps
 
 https://ikas-mc.github.io/fdroid-repo
 
-## Add Repo To Fdroid(not all apps)
+## Add Repo To Fdroid
 
 * Copy Link , Open F-Droid , Settings >Repositories > + 
 
