@@ -1,0 +1,65 @@
+{
+  "repo": {
+    "timestamp": 1677847299000
+  },
+  "packages": {
+    "ikas.android.project.launcher": {
+      "metadata": {
+        "added": 1677847294000,
+        "lastUpdated": 1677847294000
+      },
+      "versions": {
+        "4f59fa43012b8abcf6604bc9067e39fcaaec0a3051886d2b472764f62034f0b1": {
+          "added": 1677847294000
+        }
+      }
+    },
+    "ikas.android.project.nearby": {
+      "metadata": {
+        "added": 1677847296000,
+        "lastUpdated": 1677847296000
+      },
+      "versions": {
+        "e628bdfab45cef770d07e421bab5cf9178999284a27b1d5bf02833f56c6a0f4b": null,
+        "8b31bebf28086d94d7fdfbc3f34ee6b3af7798b5d8aa3ee28e749d13b7f44968": {
+          "added": 1677847296000
+        }
+      }
+    },
+    "ikas.android.projectx.application": {
+      "metadata": {
+        "added": 1677847298000,
+        "lastUpdated": 1677847298000
+      },
+      "versions": {
+        "fb1141cf51fc3e9edfb107e9e309195192b69db89fc6a5cf6dffc6b7554b08dd": null,
+        "8b4740b093a007dfc69b5b35600557e806a9869038772e4917feac800724b40f": null,
+        "1dc4235cda6bc7fd6f3b5bac3c8d8a68c33fc7291e613db0ceadc50a143623d0": {
+          "added": 1677847298000
+        }
+      }
+    },
+    "ikas.android.projectx.hook.prevent": {
+      "metadata": {
+        "added": 1677847298000,
+        "lastUpdated": 1677847298000
+      },
+      "versions": {
+        "4efaf9e3f2c039142831954d88c2caa531997653077e72f0c040e96ed0bc8f38": {
+          "added": 1677847298000
+        }
+      }
+    },
+    "ikas.android.projectx.hook.task": {
+      "metadata": {
+        "added": 1677847299000,
+        "lastUpdated": 1677847299000
+      },
+      "versions": {
+        "2e175de62c3370de0f318cd2e22de0e9b88a7cae9c1718cc8ef873cbae0f48d5": {
+          "added": 1677847299000
+        }
+      }
+    }
+  }
+}

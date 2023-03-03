@@ -1,11 +1,40 @@
 {
   "/etc/issue.net": "Ubuntu 22.04 LTS",
+  "antiFeatures": {},
+  "apksigner": "/usr/bin/apksigner",
+  "archivePolicy0": [],
   "commandLine": [
     "/usr/bin/fdroid update",
     "-c",
     "--pretty",
     "--rename-apks"
   ],
-  "startTimestamp": 1674119749000,
+  "disabled": [],
+  "endTimestamp": 1677847302528,
+  "failedBuilds": {},
+  "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/default-java/bin/keytool",
+  "needsUpdate": [
+    "ikas.android.project.launcher",
+    "ikas.android.project.nearby",
+    "ikas.android.projectx.application",
+    "ikas.android.projectx.hook.prevent",
+    "ikas.android.projectx.hook.task"
+  ],
+  "noPackages": [
+    "ikas.android.project.launcher",
+    "ikas.android.project.nearby",
+    "ikas.android.projectx.application",
+    "ikas.android.projectx.hook.prevent",
+    "ikas.android.projectx.hook.task"
+  ],
+  "noUpdateCheck": [
+    "ikas.android.project.launcher",
+    "ikas.android.project.nearby",
+    "ikas.android.projectx.application",
+    "ikas.android.projectx.hook.prevent",
+    "ikas.android.projectx.hook.task"
+  ],
+  "startTimestamp": 1677818491000,
   "subcommand": "update"
 }

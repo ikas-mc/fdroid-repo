@@ -1,0 +1,291 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "Ikas F-Droid Repository"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid"
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "143bccc1a68bd97752ed13da4976af3d758baa8aae744add7db668490d5eb3ba",
+        "size": 848
+      }
+    },
+    "address": "https://ikas-mc.github.io/fdroid-repo/fdroid/repo",
+    "timestamp": 1677847299000
+  },
+  "packages": {
+    "ikas.android.project.launcher": {
+      "metadata": {
+        "added": 1677847294000,
+        "categories": [
+          "tools"
+        ],
+        "issueTracker": "https://github.com/ikas-mc/px-repo",
+        "lastUpdated": 1677847294000,
+        "webSite": "https://github.com/ikas-mc/px-app",
+        "authorName": "ikas",
+        "name": {
+          "en-US": "Android Start"
+        },
+        "summary": {
+          "en-US": "A simple launcher for Windows Subsystem for Android"
+        },
+        "preferredSigner": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+      },
+      "versions": {
+        "4f59fa43012b8abcf6604bc9067e39fcaaec0a3051886d2b472764f62034f0b1": {
+          "added": 1677847294000,
+          "file": {
+            "name": "/ikas.android.project.launcher_20211026.apk",
+            "sha256": "4f59fa43012b8abcf6604bc9067e39fcaaec0a3051886d2b472764f62034f0b1",
+            "size": 7097894
+          },
+          "manifest": {
+            "versionName": "2021.10.26",
+            "versionCode": 20211026,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ikas.android.project.nearby": {
+      "metadata": {
+        "added": 1677847296000,
+        "categories": [
+          "tools"
+        ],
+        "issueTracker": "https://github.com/ikas-mc/px-repo",
+        "lastUpdated": 1677847296000,
+        "webSite": "https://github.com/ikas-mc/px-repo",
+        "authorName": "ikas",
+        "name": {
+          "en-US": "Share To Win10"
+        },
+        "summary": {
+          "en-US": "Send or receive files via windows nearby sharing"
+        },
+        "preferredSigner": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+      },
+      "versions": {
+        "8b31bebf28086d94d7fdfbc3f34ee6b3af7798b5d8aa3ee28e749d13b7f44968": {
+          "added": 1677847296000,
+          "file": {
+            "name": "/ikas.android.project.nearby_20221003.apk",
+            "sha256": "8b31bebf28086d94d7fdfbc3f34ee6b3af7798b5d8aa3ee28e749d13b7f44968",
+            "size": 39030392
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "2021.10.3",
+            "versionCode": 20221003,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 31
+            },
+            "signer": {
+              "sha256": [
+                "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ikas.android.projectx.application": {
+      "metadata": {
+        "added": 1677847298000,
+        "categories": [
+          "tools"
+        ],
+        "issueTracker": "https://github.com/ikas-mc/px-app",
+        "lastUpdated": 1677847298000,
+        "webSite": "https://github.com/ikas-mc/px-app",
+        "authorName": "ikas",
+        "name": {
+          "en-US": "Invalid App"
+        },
+        "summary": {
+          "en-US": "For Android 10+, Manage App/App Component(IFW)/Permission/AppOps"
+        },
+        "preferredSigner": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+      },
+      "versions": {
+        "1dc4235cda6bc7fd6f3b5bac3c8d8a68c33fc7291e613db0ceadc50a143623d0": {
+          "added": 1677847298000,
+          "file": {
+            "name": "/ikas.android.projectx.application_20230104.apk",
+            "sha256": "1dc4235cda6bc7fd6f3b5bac3c8d8a68c33fc7291e613db0ceadc50a143623d0",
+            "size": 18803231
+          },
+          "manifest": {
+            "versionName": "2023.1.4",
+            "versionCode": 20230104,
+            "usesSdk": {
+              "minSdkVersion": 28,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "ikas.android.projectx.permission.SYSTEM"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "ikas.android.projectx.hook.prevent": {
+      "metadata": {
+        "added": 1677847298000,
+        "categories": [
+          "tools"
+        ],
+        "issueTracker": "https://github.com/ikas-mc/px-app",
+        "lastUpdated": 1677847298000,
+        "webSite": "https://github.com/ikas-mc/px-app",
+        "authorName": "ikas",
+        "name": {
+          "en-US": "AppOps Module For Invalid App"
+        },
+        "summary": {
+          "en-US": "AppOps module(xposed) for Invalid App , Disalbe appops reset"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/ikas.android.projectx.hook.prevent.20210520.png",
+            "sha256": "f37146609955ea5bdab94498a99ca8814f6ca2ca27fc83061de56e9f8c6c77e4",
+            "size": 2561
+          }
+        },
+        "preferredSigner": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+      },
+      "versions": {
+        "4efaf9e3f2c039142831954d88c2caa531997653077e72f0c040e96ed0bc8f38": {
+          "added": 1677847298000,
+          "file": {
+            "name": "/ikas.android.projectx.hook.prevent_20210520.apk",
+            "sha256": "4efaf9e3f2c039142831954d88c2caa531997653077e72f0c040e96ed0bc8f38",
+            "size": 1009038
+          },
+          "manifest": {
+            "versionName": "2021.5.20",
+            "versionCode": 20210520,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "ikas.android.projectx.hook.task": {
+      "metadata": {
+        "added": 1677847299000,
+        "categories": [
+          "tools"
+        ],
+        "issueTracker": "https://github.com/ikas-mc/px-app",
+        "lastUpdated": 1677847299000,
+        "webSite": "https://github.com/ikas-mc/px-app",
+        "authorName": "ikas",
+        "name": {
+          "en-US": "Task Module For Invalid App"
+        },
+        "summary": {
+          "en-US": "Force stop the app when removed from recent task"
+        },
+        "preferredSigner": "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+      },
+      "versions": {
+        "2e175de62c3370de0f318cd2e22de0e9b88a7cae9c1718cc8ef873cbae0f48d5": {
+          "added": 1677847299000,
+          "file": {
+            "name": "/ikas.android.projectx.hook.task_20210530.apk",
+            "sha256": "2e175de62c3370de0f318cd2e22de0e9b88a7cae9c1718cc8ef873cbae0f48d5",
+            "size": 891339
+          },
+          "manifest": {
+            "versionName": "2021.5.30",
+            "versionCode": 20210530,
+            "usesSdk": {
+              "minSdkVersion": 29,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "b24409bd6ecea66fb8c21baa0bc1da6851a13238ad837f49507ca1627e4b52d9"
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+}
