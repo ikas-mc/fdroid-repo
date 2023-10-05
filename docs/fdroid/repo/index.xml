@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Ikas F-Droid Repository" pubkey="308204e1308202c9a00302010202044aeff1d2300d06092a864886f70d01010b050030213110300e060355040b1307462d44726f6964310d300b06035504031304696b6173301e170d3231303431383037343831305a170d3438303930333037343831305a30213110300e060355040b1307462d44726f6964310d300b06035504031304696b617330820222300d06092a864886f70d01010105000382020f003082020a02820201008c9b1f28944a9293e5382c69a3e913ca7c82639d352378f45b5282f66fb43eca29c374beb5f6e091be16061c700bf73c5cd38ab4b97b1f3e986590435f734484d3dfae99270a1514af5045f3803d4d19ff4ac6307fea9cc8fbcff8af972f42bafa37f75b815a30d06dd5945b92378f665b174f57afe78243ff49658f39364feca8269fa47f540674127f0798824b368cb9370d8744f2a2051053d9d9efa78c3d327f2b677c35518fe11d99b6cf8b87895c00479e38611944729fa417fb134aaa134fe7b0aec1270f8336500ada05632341f2810b12fa719a66a3c18a62b836688cf7b11cd34aa66d72a3538ce1535e89eb6d797c40e23a29489330e53bf87de47888173d9ee5f571bfb127bb6f3cff007e0ee71c58eae2fd1c00e1c890e1d4d8b19d101e560fe49a2862f9f431aa3a33e7c3e3c48dbb042be8160692a2db90d1c10ffdf4abef478fb1003994fe6af93fb982b0a139dba81dd26478a3758d2cbc63b6d796dc8b910b76175101ed6b3e6b540d26b07157716902268573a5cba11fc38e8baaaf1ea60048cb8e5362f5fe84fbbd6f48b65f2de30ccd4b5fd44c24dd02f97c918acd9aa47f64f4f8aed98d07f6a1d6790d4165408691750cfc3b0383edb3c7842f0f192ffb129670c70c941ac9c261d6e78d47fdd9674950532ca213e8b3d808711984b26edbc7acf32bf71d4b35e09ae2f5fac2ac831cc4558402ad0203010001a321301f301d0603551d0e041604142894eb863f36babe4c5f7a8437ad692b8dfdc7ba300d06092a864886f70d01010b0500038202010083b7480f01307bd3fb32c06b7ea66f0dc561794e7203b6acf0f8f20f32bd58e3caa9495d5a3c573b73bdd6fa0a749d6faa65c7241ebc69ac675181c96fdf199d59adfddc07c0562cc555ff77f73379a6af7c930ca17320be097f9e1f0f8c53f6daf4eb6538fe220f3285a40482eb155dae717391f8acd4f9daa0bbff71776541f91cd773283b108ab1565b12bf4e56b774cde3d8275bbf3b57e311da4f7d773c95faa5cfae8aa14b6f64e6bcf2c5674516885da8855f8a590aa5013a9f9c8e4e4bf8c7db956cf0714adcbd6ca3b411ce5b1d1f16c57c3f617ce246173712cc505c6373fec18cf0013c095f3d8aef76f170d48650d1030046b08271f7e0a86a5231c31e7bf926656089e9281c9bb8152d9a9bfc5439798f0c54d38224b44e3c7316495000569bc679feff226118c9f083af3840432dce4adc46c65c2eff2b44ece9d0c5ca3f77388cf22369d9c5274b5868e92624b32dc960e25d05861bb62984c2a08b4fe8304ddeef48c4df1303aace598674e2b557c708c157a710fae60ea7d9c95d045095a311f662ebe6ea863decd95ca6965fedc0077acdd2654b528470d6990114e4e9c7125967714ca33792a692ddb16fd4b14296fe083812cbcd96a32777d9c4730442e502816abe1aa931d1964e6b380dcd24f63c27ebb92b0045a37205519ce1fbcf245e991b5c9c1ad812b5829063e3cac82966712695bf8af9ab" timestamp="1678203543" url="https://ikas-mc.github.io/fdroid-repo/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Ikas F-Droid Repository" pubkey="308204e1308202c9a00302010202044aeff1d2300d06092a864886f70d01010b050030213110300e060355040b1307462d44726f6964310d300b06035504031304696b6173301e170d3231303431383037343831305a170d3438303930333037343831305a30213110300e060355040b1307462d44726f6964310d300b06035504031304696b617330820222300d06092a864886f70d01010105000382020f003082020a02820201008c9b1f28944a9293e5382c69a3e913ca7c82639d352378f45b5282f66fb43eca29c374beb5f6e091be16061c700bf73c5cd38ab4b97b1f3e986590435f734484d3dfae99270a1514af5045f3803d4d19ff4ac6307fea9cc8fbcff8af972f42bafa37f75b815a30d06dd5945b92378f665b174f57afe78243ff49658f39364feca8269fa47f540674127f0798824b368cb9370d8744f2a2051053d9d9efa78c3d327f2b677c35518fe11d99b6cf8b87895c00479e38611944729fa417fb134aaa134fe7b0aec1270f8336500ada05632341f2810b12fa719a66a3c18a62b836688cf7b11cd34aa66d72a3538ce1535e89eb6d797c40e23a29489330e53bf87de47888173d9ee5f571bfb127bb6f3cff007e0ee71c58eae2fd1c00e1c890e1d4d8b19d101e560fe49a2862f9f431aa3a33e7c3e3c48dbb042be8160692a2db90d1c10ffdf4abef478fb1003994fe6af93fb982b0a139dba81dd26478a3758d2cbc63b6d796dc8b910b76175101ed6b3e6b540d26b07157716902268573a5cba11fc38e8baaaf1ea60048cb8e5362f5fe84fbbd6f48b65f2de30ccd4b5fd44c24dd02f97c918acd9aa47f64f4f8aed98d07f6a1d6790d4165408691750cfc3b0383edb3c7842f0f192ffb129670c70c941ac9c261d6e78d47fdd9674950532ca213e8b3d808711984b26edbc7acf32bf71d4b35e09ae2f5fac2ac831cc4558402ad0203010001a321301f301d0603551d0e041604142894eb863f36babe4c5f7a8437ad692b8dfdc7ba300d06092a864886f70d01010b0500038202010083b7480f01307bd3fb32c06b7ea66f0dc561794e7203b6acf0f8f20f32bd58e3caa9495d5a3c573b73bdd6fa0a749d6faa65c7241ebc69ac675181c96fdf199d59adfddc07c0562cc555ff77f73379a6af7c930ca17320be097f9e1f0f8c53f6daf4eb6538fe220f3285a40482eb155dae717391f8acd4f9daa0bbff71776541f91cd773283b108ab1565b12bf4e56b774cde3d8275bbf3b57e311da4f7d773c95faa5cfae8aa14b6f64e6bcf2c5674516885da8855f8a590aa5013a9f9c8e4e4bf8c7db956cf0714adcbd6ca3b411ce5b1d1f16c57c3f617ce246173712cc505c6373fec18cf0013c095f3d8aef76f170d48650d1030046b08271f7e0a86a5231c31e7bf926656089e9281c9bb8152d9a9bfc5439798f0c54d38224b44e3c7316495000569bc679feff226118c9f083af3840432dce4adc46c65c2eff2b44ece9d0c5ca3f77388cf22369d9c5274b5868e92624b32dc960e25d05861bb62984c2a08b4fe8304ddeef48c4df1303aace598674e2b557c708c157a710fae60ea7d9c95d045095a311f662ebe6ea863decd95ca6965fedc0077acdd2654b528470d6990114e4e9c7125967714ca33792a692ddb16fd4b14296fe083812cbcd96a32777d9c4730442e502816abe1aa931d1964e6b380dcd24f63c27ebb92b0045a37205519ce1fbcf245e991b5c9c1ad812b5829063e3cac82966712695bf8af9ab" timestamp="1696494907" url="https://ikas-mc.github.io/fdroid-repo/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with F-Droid</description>
 	</repo>
 	<application id="ikas.android.project.launcher">
 		<id>ikas.android.project.launcher</id>
-		<added>2023-03-07</added>
-		<lastupdated>2023-03-07</lastupdated>
+		<added>2023-10-05</added>
+		<lastupdated>2023-10-05</lastupdated>
 		<name>Android Start</name>
 		<summary>A simple launcher for Windows Subsystem for Android</summary>
 		<desc>No description available</desc>
@@ -27,27 +27,15 @@
 			<size>7562022</size>
 			<sdkver>28</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2023-03-07</added>
-			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
-			<permissions>ACCESS_NETWORK_STATE,INTERNET,QUERY_ALL_PACKAGES,REQUEST_DELETE_PACKAGES</permissions>
-		</package>
-		<package>
-			<version>2021.10.26</version>
-			<versioncode>20211026</versioncode>
-			<apkname>ikas.android.project.launcher_20211026.apk</apkname>
-			<hash type="sha256">4f59fa43012b8abcf6604bc9067e39fcaaec0a3051886d2b472764f62034f0b1</hash>
-			<size>7097894</size>
-			<sdkver>29</sdkver>
-			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-03-07</added>
+			<added>2023-10-05</added>
 			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,QUERY_ALL_PACKAGES,REQUEST_DELETE_PACKAGES</permissions>
 		</package>
 	</application>
 	<application id="ikas.android.projectx.hook.prevent">
 		<id>ikas.android.projectx.hook.prevent</id>
-		<added>2023-03-07</added>
-		<lastupdated>2023-03-07</lastupdated>
+		<added>2023-10-05</added>
+		<lastupdated>2023-10-05</lastupdated>
 		<name>AppOps Module For Invalid App</name>
 		<summary>AppOps module(xposed) for Invalid App , Disalbe appops reset</summary>
 		<icon>ikas.android.projectx.hook.prevent.20210520.png</icon>
@@ -69,14 +57,14 @@
 			<size>1009038</size>
 			<sdkver>29</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-03-07</added>
+			<added>2023-10-05</added>
 			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
 		</package>
 	</application>
 	<application id="ikas.android.projectx.application">
 		<id>ikas.android.projectx.application</id>
-		<added>2023-03-07</added>
-		<lastupdated>2023-03-07</lastupdated>
+		<added>2023-10-05</added>
+		<lastupdated>2023-10-05</lastupdated>
 		<name>Invalid App</name>
 		<summary>For Android 10+, Manage App/App Component(IFW)/Permission/AppOps</summary>
 		<desc>No description available</desc>
@@ -88,7 +76,19 @@
 		<tracker>https://github.com/ikas-mc/px-app</tracker>
 		<author>ikas</author>
 		<marketversion></marketversion>
-		<marketvercode>20230104</marketvercode>
+		<marketvercode>20231005</marketvercode>
+		<package>
+			<version>2023.10.5</version>
+			<versioncode>20231005</versioncode>
+			<apkname>ikas.android.projectx.application_20231005.apk</apkname>
+			<hash type="sha256">808511840b8ba023fcf40ac313ebb883a133b587f8fb5b9a31bbcfd20b8b44e2</hash>
+			<size>19113222</size>
+			<sdkver>30</sdkver>
+			<targetSdkVersion>34</targetSdkVersion>
+			<added>2023-10-05</added>
+			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
+			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,ikas.android.projectx.application.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,ikas.android.projectx.permission.SYSTEM,moe.shizuku.manager.permission.API_V23</permissions>
+		</package>
 		<package>
 			<version>2023.1.4</version>
 			<versioncode>20230104</versioncode>
@@ -97,15 +97,15 @@
 			<size>18803231</size>
 			<sdkver>28</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2023-03-07</added>
+			<added>2023-10-05</added>
 			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,ikas.android.projectx.permission.SYSTEM,moe.shizuku.manager.permission.API_V23</permissions>
 		</package>
 	</application>
 	<application id="ikas.android.project.nearby">
 		<id>ikas.android.project.nearby</id>
-		<added>2023-03-07</added>
-		<lastupdated>2023-03-07</lastupdated>
+		<added>2023-10-05</added>
+		<lastupdated>2023-10-05</lastupdated>
 		<name>Share To Win10</name>
 		<summary>Send or receive files via windows nearby sharing</summary>
 		<desc>No description available</desc>
@@ -126,7 +126,7 @@
 			<size>39030392</size>
 			<sdkver>29</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2023-03-07</added>
+			<added>2023-10-05</added>
 			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<nativecode>arm64-v8a,x86,x86_64</nativecode>
@@ -134,8 +134,8 @@
 	</application>
 	<application id="ikas.android.projectx.hook.task">
 		<id>ikas.android.projectx.hook.task</id>
-		<added>2023-03-07</added>
-		<lastupdated>2023-03-07</lastupdated>
+		<added>2023-10-05</added>
+		<lastupdated>2023-10-05</lastupdated>
 		<name>Task Module For Invalid App</name>
 		<summary>Force stop the app when removed from recent task</summary>
 		<desc>No description available</desc>
@@ -156,7 +156,7 @@
 			<size>891339</size>
 			<sdkver>29</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2023-03-07</added>
+			<added>2023-10-05</added>
 			<sig>39d65f1e0266c8965b9ce2256e153da5</sig>
 		</package>
 	</application>
